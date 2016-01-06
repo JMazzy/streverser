@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.bundle/
 /.yardoc
 /Gemfile.lock
@@ -7,3 +8,27 @@
 /pkg/
 /spec/reports/
 /tmp/
+=======
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+Gemfile.lock
+InstalledFiles
+_yardoc
+coverage
+doc/
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+*.bundle
+*.so
+*.o
+*.a
+mkmf.log
+>>>>>>> f560b2bfe03a4ef4a4639b703c3f7d238872d851
